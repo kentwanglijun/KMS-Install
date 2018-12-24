@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Auto install KMS Server
-# System Required:  CentOS, Debian, Ubuntu
+# System Required:  Redhat,CentOS, Debian, Ubuntu
 # Copyright (C) 2018-2019 Ponfey <zhupengfei@itwiki.xyz>
 # URL: https://www.itwiki.xyz (Located in Silicon Valley, USA)
 #
